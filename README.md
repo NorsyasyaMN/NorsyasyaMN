@@ -1,16 +1,14 @@
-### Hi there 👋
+# HELLO THERE 👋 </h2>
 
-<!--
-**NorsyasyaMN/NorsyasyaMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Norsyasya Bt Mohd Nazri  
+-<i>Currently:</i> BASc CS Student at University Science Malaysia at Pineng, Malaysia.  
+-<i>Previously:</i> Fdn. Science Student at University Technology Mara (UiTM), Dengkil, Malaysia.
 
-Here are some ideas to get you started:
+## 💻 I'm Currently Learning </h2>
+- CAT201 Integrated Software Developement Workshop  
+- CMT221 Database Organisation & Design   
+- CSE241 Foundation Of Software Engineering
+- CST232 Operating System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Syasya ⚡️ </h2>
+I'm an undergraduate student living in Petaling Jaya, Selangor. Outside Tech, I also enjoy listening to music, playing guitar and explore nature outdoors. If you are around Pulau Pinang, drop an email and let's know each other better.
