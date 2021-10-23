@@ -1,6 +1,7 @@
 # HELLO EVERYONE 🙋🏻‍♀️ </h2>
 
-![Imgur Image](https://lh3.googleusercontent.com/xVSQnOLhS4zMuZBWuo8gR39V8rVRMBu8pYrNgXgLU0-Z-tqUCFAdchJFWDzi-XVyhDKqFQ=s135)
+<img src= "https://lh3.googleusercontent.com/1Cs-vG2LrndnqzMkqMl6rWAM_wXcO6znM3vYHoOI8W0qotfHYP7HWTJcmLbDap0vijkL=s85">
+<img src= "https://lh3.googleusercontent.com/xVSQnOLhS4zMuZBWuo8gR39V8rVRMBu8pYrNgXgLU0-Z-tqUCFAdchJFWDzi-XVyhDKqFQ=s135">
 
 I'm Norsyasya Bt Mohd Nazri  
 -<i>Currently:</i> BASc CS Student at University Science Malaysia at Pineng, Malaysia.  
