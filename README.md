@@ -1,6 +1,6 @@
 # HELLO EVERYONE 🙋🏻‍♀️ </h2>
 
-https://lh3.googleusercontent.com/xVSQnOLhS4zMuZBWuo8gR39V8rVRMBu8pYrNgXgLU0-Z-tqUCFAdchJFWDzi-XVyhDKqFQ=s135
+![Imgur Image](https://lh3.googleusercontent.com/xVSQnOLhS4zMuZBWuo8gR39V8rVRMBu8pYrNgXgLU0-Z-tqUCFAdchJFWDzi-XVyhDKqFQ=s135)
 
 I'm Norsyasya Bt Mohd Nazri  
 -<i>Currently:</i> BASc CS Student at University Science Malaysia at Pineng, Malaysia.  
