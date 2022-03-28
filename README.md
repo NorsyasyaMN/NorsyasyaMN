@@ -3,7 +3,7 @@
 # HELLO EVERYONE 🙋🏻‍♀️ </h2>
 
 I'm Norsyasya Bt Mohd Nazri  
--<i>Currently:</i> BASc CS Student at University Science Malaysia at Pineng, Malaysia.  
+-<i>Currently:</i> BASc CS Student at University Science Malaysia at Penang, Malaysia.  
 -<i>Previously:</i> Fdn. Science Student at University Technology Mara (UiTM), Dengkil, Malaysia.
 
 ## 💻 I'm Currently Learning 💻 </h2>
