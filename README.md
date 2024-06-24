@@ -7,10 +7,21 @@ I'm Norsyasya Bt Mohd Nazri
 -<i>Previously:</i> Fdn. Science Student at University Technology Mara (UiTM), Dengkil, Malaysia.
 
 ## 💻 I'm Currently Learning 💻 </h2>
+- CMT425 Enterprise Architecture & System 
+- CSE442 Software Testing  
+- CSE443 Real-Time Software Engineering
+
+## 💻 Previously I Learned💻 </h2>
 - CAT304 Group Innovation Project & Sustainability 
 - CMT322 Web Engineering & Technologies  
 - CSE341 Software Architecture & Design
-- CSE342 Dependable Software Systems Engineering 
+- CSE342 Dependable Software Systems Engineering
+- CPT212 Design Analysis & Algorithm
+- CSE242 Software Requirement Analysis & Modelling
+- CST235 Principle of Computer Networks & Information Security
+- CMT221 Databased Organisation & Design
+- cse241 Foundation of Software Engineering
+- CST232 Operating System
 
 ## ⚡️ About NorsyasyaMN ⚡️ </h2>
 I'm an undergraduate student living in Petaling Jaya, Selangor. Outside Tech, I also enjoy listening to music, playing guitar and explore nature outdoors. If you are around Pulau Pinang, drop an email and let's know each other better.
